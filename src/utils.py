@@ -157,6 +157,7 @@ def round_df_to_n_significant_figures(df, n):
 
 
 SUPERVISED_PAPER_REPEATERS = [
+    "FRB20180801A"
     "FRB20181229B",
     "FRB20190423B",
     "FRB20190410A",
